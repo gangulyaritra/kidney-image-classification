@@ -1,0 +1,13 @@
+bentoml
+dvc
+ensure
+Flask
+Flask-Cors
+gdown
+joblib
+mlflow
+pandas
+python-box
+python-dotenv
+PyYAML
+tensorflow
